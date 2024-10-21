@@ -5,8 +5,9 @@ box-sizing: border-box ;
 }
 
 body {
-    background: #eaeaea; ;
+    background: #f6f8f7; ;
     overflow: hidden;
+
 }
 .container {
     position: absolute;
@@ -15,7 +16,7 @@ body {
     transform: translate(-50%, -50%);
     width: 1000px;
     height: 600px;
-    background: #f5f5f5;
+    background: #98CBB4;
     box-shadow: 0 30px 50px #dbdbdb;
 
 }
@@ -145,21 +146,13 @@ bottom: 20px;
     color: #fff;
 }
 
-.puppy {
-    font-size: 43px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #000000;
+.icon {
+    width: 200px;
 }
 
-.Tec {
-    font-size: 43px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #000000;
-
-}
-
-.puppo {
-    font-size: 43px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: #eee;
+.Btt {
+    font-size: x-large;
+    border: none;
+    border-radius: 30%;
+    box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.918);
 }
